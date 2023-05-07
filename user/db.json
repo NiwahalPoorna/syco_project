@@ -1,0 +1,151 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "Sandu17303",
+      "id": 2
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "hiru17303",
+      "id": 3
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "hiru17303",
+      "id": 4
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "hiru17303",
+      "id": 5
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "hiru17303",
+      "id": 6
+    },
+    {
+      "firstName": "Hiru poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "1458845120",
+      "id": 7
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "sandu1730333333333333333333333333",
+      "id": 8
+    },
+    {
+      "firstName": "Niwahal Poorna",
+      "email": "hirupurna77@gmail.com",
+      "password": "sandu1730333333333333333333333333",
+      "id": 9
+    },
+    {
+      "firstName": "hiru",
+      "email": "ranphranasinghe@gmail.com",
+      "password": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+      "id": 10
+    },
+    {
+      "gender": "male",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "password": "sandu17303",
+      "id": 11
+    },
+    {
+      "gender": "male",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "password": "sandu1730321434",
+      "rePassword": "sandu1730321434",
+      "id": 12
+    },
+    {
+      "gender": "male",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "password": "sandu1730321434",
+      "rePassword": "sandu1730321434",
+      "nicNumber": "sandu1730321434",
+      "id": 13
+    },
+    {
+      "gender": "male",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "nicNumber": "200034201266",
+      "password": "sandu17303",
+      "rePassword": "sandu17303",
+      "agree": true,
+      "id": 14
+    },
+    {
+      "gender": "male",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "nicNumber": "200034201266",
+      "password": "sandu17303",
+      "rePassword": "sandu17303",
+      "agree": true,
+      "id": 15
+    },
+    {
+      "gender": "female",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "nicNumber": "2000342012661111",
+      "password": "sandu17303",
+      "rePassword": "sandu17303",
+      "agree": true,
+      "id": 16
+    },
+    {
+      "gender": "female",
+      "mobileNumber": "0768501694",
+      "firstName": "hiru",
+      "lastName": "purna",
+      "email": "hirupurna77@gmail.com",
+      "nicNumber": "2000342012661111",
+      "password": "sandu17303",
+      "rePassword": "sandu17303",
+      "agree": true,
+      "id": 17
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
